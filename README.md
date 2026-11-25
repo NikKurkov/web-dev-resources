@@ -1290,7 +1290,7 @@ Analytics tells you who's visiting your site and what they're clicking — footp
 | [PostHog](https://posthog.com/) | Need product analytics, session replay, and feature flags in one tool. |
 
 <details>
-<summary>Show all 8 tools</summary>
+<summary>Show all 9 tools</summary>
 
 | Name | Best for |
 |---|---|
